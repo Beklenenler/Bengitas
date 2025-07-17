@@ -1,1 +1,3 @@
 Bengitaş, Türkçülük ve Türklük üzerine yapılmış araştırmaların, yazıların ve kaynakların toplantığı topluluk destekli bir bilgi deposudur.
+
+Sosyal medyada paylaşılan bilgilerin, açık kaynaklı (ya da imtiyaz sahibinden izin alınan) yayım ve yayınların arşivlenmesi ve ilgisi olan kişiler tarafından kolayca erişilebilmesi amaçlanmıştır.
