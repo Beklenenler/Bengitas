@@ -12,4 +12,5 @@ Herhangi bir problemde üstteki "issue" kısmında bir issue oluşturabilir, pul
 İletişim: 
 
 **e-mail:** turk0beklenendir@gmail.com
+
 **Twitter:** @beklenenler_ist
